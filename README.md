@@ -11,3 +11,6 @@
 
 # **實測演示**  
 ![image](picture or gif url)   
+
+# **教程**  
+[教程](https://github.com/guizaida/How-to-do-jetson-nano-maskcheck/blob/a7b0d6d2080fc2ba684a6943e766fbba108cb4af/README.md)
