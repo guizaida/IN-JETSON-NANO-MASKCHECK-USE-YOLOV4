@@ -3,7 +3,7 @@
 1.為何選用YOLOV4-TINY由於體積小可以邊緣裝置上運行  
 2.為何選擇jetson nano由於耗電低且算力不低
 # **成果演示**  
-![image]https://github.com/guizaida/IN-JETSON-NANO-MASKCHECK-USE-YOLOV4/blob/57172e53deac966817522473fe0165b633b6c725/gif/test1.gif)  
+![image](https://github.com/guizaida/IN-JETSON-NANO-MASKCHECK-USE-YOLOV4/blob/57172e53deac966817522473fe0165b633b6c725/gif/test1.gif)  
 
 # **使用TensorRT加速**  
 成果演示  
