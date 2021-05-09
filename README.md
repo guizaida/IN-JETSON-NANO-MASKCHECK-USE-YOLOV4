@@ -1,7 +1,13 @@
 # **在 Jetson Nano 上使用 YOLOv4 進行口罩辨識**  
 # **簡介**
-1.為何選用 YOLOv4-tiny 由於體積小可以邊緣裝置上運行  
-2.為何選擇 Jetson Nano 由於耗電低且算力不低
+## **為何選用 YOLOv4 **  
+1..設備需求低  
+2.運算速度相比R-CNN更快  
+3.正確率高  
+## **為何選用 Jetson Nano**  
+1.耗電量低  
+2.運算能力高  
+3.體積小  
 # **成果演示**  
 ![image](https://github.com/guizaida/IN-JETSON-NANO-MASKCHECK-USE-YOLOV4/blob/57172e53deac966817522473fe0165b633b6c725/gif/test1.gif)  
 
