@@ -19,6 +19,8 @@
 
 # **實測演示**  
 ![image](https://github.com/guizaida/IN-JETSON-NANO-MASKCHECK-USE-YOLOV4/blob/8fa73a41bed9b85c96d9a44495e395c3a4b66e74/gif/test10.gif)   
-
+[高清版實測影片](https://www.youtube.com/watch?v=tmmf5EglsuY&t=1s&ab_channel=ZaiGui)  
 # **教程**  
-[中文教程](https://github.com/guizaida/How-to-do-jetson-nano-maskcheck/blob/a7b0d6d2080fc2ba684a6943e766fbba108cb4af/README.md)
+[中文教程](https://github.com/guizaida/How-to-do-jetson-nano-maskcheck/blob/a7b0d6d2080fc2ba684a6943e766fbba108cb4af/README.md)  
+
+
