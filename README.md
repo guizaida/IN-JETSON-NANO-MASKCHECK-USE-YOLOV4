@@ -9,10 +9,12 @@
 2.運算能力高  
 3.體積小  
 # **成果演示**  
+即使用手遮住臉還是可以辨識為沒戴口罩  
 ![image](https://github.com/guizaida/IN-JETSON-NANO-MASKCHECK-USE-YOLOV4/blob/57172e53deac966817522473fe0165b633b6c725/gif/test1.gif)  
 
 # **使用 TensorRT 加速**  
 成果演示  
+即使用手遮住臉還是可以辨識為沒戴口罩  
 ![image](https://github.com/guizaida/IN-JETSON-NANO-MASKCHECK-USE-YOLOV4/blob/57172e53deac966817522473fe0165b633b6c725/gif/test.gif)    
 
 # **實測演示**  
